@@ -1,1 +1,3 @@
 Many Snippets(HTML+CSS): https://www.w3schools.com/howto/default.asp
+
+SVG Tutorials: http://tutorials.jenkov.com/svg/index.html
